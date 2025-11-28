@@ -1,0 +1,5 @@
+{
+  "name": "MarkTeX to PDF",
+  "description": "A powerful Markdown and LaTeX editor with live PDF preview, customizable styling, and AI-powered content assistance.",
+  "requestFramePermissions": []
+}
