@@ -204,6 +204,7 @@ Det er viktig å merke seg at fortegnene vil endre seg i en elektrolyse celle. D
 | --- | --- |
 | **Anode = negativ (-)** | **Anode = positiv (+)** |
 | **Katode = positiv (+)** | **Katode = negativ (–)** |
+{columns}
 
 ## **Saltbroen**
 
